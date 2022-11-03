@@ -20,7 +20,7 @@ function Todo({ todo, toggleComplete, removeTodo }) {
       >
         {todo.task}
       </li>
-      <button onClick={handleRemoveClick} class="btn btn-outline-success">
+      <button onClick={handleRemoveClick} class="btn btn btn-success btn-sm">
         Remove
       </button>
     </div>
