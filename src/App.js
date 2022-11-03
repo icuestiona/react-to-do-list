@@ -72,7 +72,7 @@ function App() {
           </a>{" "}
           and hosted on{" "}
           <a
-            href="https://sage-queijadas-9e8532.netlify.app/"
+            href="https://gilded-puppy-60f3cf.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
