@@ -64,7 +64,7 @@ function App() {
           </a>{" "}
           , open-sourced on{" "}
           <a
-            href="https://github.com/icuestiona/experiment1-react"
+            href="https://github.com/icuestiona/react-to-do-list"
             target="_blank"
             rel="noreferrer"
           >
